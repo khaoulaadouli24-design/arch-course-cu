@@ -1,6 +1,5 @@
 # Lecture 9 — CityBite Deployment (Kubernetes)
-**Student Name**: Rania Chafai
-**Student ID**:30009596
+**Student Name**:Khaoula Adouli
 **Submission Date**: 16/04/2026
 
 ## Overview
